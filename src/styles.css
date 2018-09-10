@@ -1,0 +1,9 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+    position:"relative";
+    height: 1900px;
+    margin-top: .5rem;
+    overflow:"auto"; 
+}
+
+  
